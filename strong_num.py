@@ -14,4 +14,4 @@ while n>0:
 if sum==temp:
         print(temp,"is a strong num")
 else:
-        print("nopp its not a strong num")
+        print("machaa strong num allaa")
